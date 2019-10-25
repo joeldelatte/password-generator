@@ -1,0 +1,15 @@
+#center-title {
+    text-align: center;
+}
+
+.top_bottom {
+    height: 150px;
+}
+
+textarea {
+    max-width: 675px;
+}
+
+#copyPword {
+    /* float: right; */
+}
