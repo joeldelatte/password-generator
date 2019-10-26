@@ -51,9 +51,9 @@ generateButton.addEventListener("click", function() {
     // }
 });
 
-copyThat.addEventListener("click", function() {
-   password.execCommand('copy');
-});
+// copyThat.addEventListener("click", function() {
+//    password.execCommand('copy');
+// });
 
 
 
