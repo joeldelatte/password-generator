@@ -10,6 +10,18 @@
 8. Input text into text area using textContent in js
 
 
-needed variables: 
+conditional
+
+if special is true add to empty array
+if number is true add to empty with above
+if uppercase is true add to array
+if lowercase is true add to array
+
+onClick Math.random through array that has had previous arrays added to it
+times the number in promptLength
+use setContent to add the result to the page inside textarea 
+
+
+try randomizing each string or array and then concatating to each other afterward
 
  
