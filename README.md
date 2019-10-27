@@ -1,5 +1,30 @@
 # password-generator
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Psuedo-Code:
 1. Create Dom selectors for the elements that we need to affect change on
 2. Add action to buttons
 3. create prompt that appears when button is pressed that gathers user choice on length of password and character types
